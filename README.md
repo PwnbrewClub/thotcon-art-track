@@ -5,7 +5,7 @@ this THOTCON 0x9 proposal is for an "artWarez" track consisting of any combinati
 ### artWarez Gallery Show
 the artWarez Gallery will be a curated show of digital artists working w/computers, networks, and topics of surveillance in unconventional ways. for example...
 
-* [Rafael Lozano Hemmer](http://www.lozano-hemmer.com/level_of_confidence.php)
+* [Rafael Lozano Hemmer](http://www.lozano-hemmer.com/level_of_confidence.php)<br>
 ![Rafael Lozano Hemmer](/images/rafael_lozano_hemmer.jpg)
 * [Jeff Donaldson](http://glitchaus.com)
 ![Jeff Donaldson](/images/glitchaus.jpg)
