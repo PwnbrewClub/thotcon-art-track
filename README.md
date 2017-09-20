@@ -3,7 +3,7 @@
 this THOTCON 0x9 proposal is for an "artWarez" track consisting of any combination of the following components:
 
 ### artWarez Gallery Show
-the artWarez Gallery will be a curated show of digital artists working w/computers, networks, and topics of surveillance in unconventional ways. for example...
+the artWarez Gallery will be a curated show of digital artists working w/computers, networks, and topics of surveillance, security, and privacy in unconventional ways. for example...
 
 ![Rafael Lozano Hemmer](images/rafael_lozano_hemmer.jpg)
 
