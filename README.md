@@ -6,36 +6,47 @@ this THOTCON 0x9 proposal is for an "artWarez" track consisting of any combinati
 the artWarez Gallery will be a curated show of digital artists working w/computers, networks, and topics of surveillance in unconventional ways. for example...
 
 ![Rafael Lozano Hemmer](images/rafael_lozano_hemmer.jpg)
+
 [_Level of Confidence_, Rafael Lozano Hemmer](http://www.lozano-hemmer.com/level_of_confidence.php)
 
 ![Jeff Donaldson](images/glitchaus.jpg)
+
 [_Data Weave_, Jeff Donaldson](http://glitchaus.com)
 
 ![Jakub Geltner](images/Jakub_Geltner.jpg)
+
 [_Nest 05_, Jakub Geltner](https://creators.vice.com/en_us/article/wnpzgy/a-flock-of-surveillance-cameras-nests-on-the-beach)
 
 ![Harvest](images/harvest.jpg)
+
 [_Harvest, wind energy used to mine cryptocurrency to fund climate research_, Julian Oliver](https://julianoliver.com/output/harvest)
 
 ![Men In Grey](images/men-in-grey.jpg)
+
 [_Men in Grey_, Julian Oliver && Danja Vasiliev](https://criticalengineering.org/projects/men-in-grey/)
 
 ![QFM](images/qfm.jpg)
+
 [_QFM_, Sarah Grant](http://chootka.com/projects/)
 
 ![Skylift](images/skylift.png)
+
 [_Skylift_, Surya Mattu](https://samatt.github.io/sky-lift/)
 
 ![Networks of New York](images/networks-of-new-york.jpg)
+
 [_Networks of New York_, Ingrid Burrington](http://lifewinning.com/projects/networks-of-new-york/)
 
 ![Holypager](images/holypager.png)
+
 [_Holypager_, Brannon Dorsey (Pwbrew Organizer)](https://github.com/chootka/radical-networks/issues/120)
 
 ![WebRoutes](images/webroutes.png)
+
 [_WebRoutes_, Brannon Dorsey && Nick Briz (as Branger_Briz) (Pwnebrew Organizers)](https://github.com/brangerbriz/webroutes)
 
 ![Probekit](images/probekit.png)
+
 [_ProbeKit_, Brannon Dorsey && Nick Briz (as Branger_Briz) (Pwnbrew Organizers)](http://probekit.brangerbriz.com)
 
 ### artWarez Talk[s]
