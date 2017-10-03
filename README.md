@@ -68,10 +68,41 @@ In this talk we will explore the idea that the design and function of the web br
 
 ## Whois: Pwnbrew Club
 
-Pwnbrew Club is a very small monthly gathering of digital artists, programmers && amateur hackers. we share + collaborate on creative projects w/one another relating to digital art, "hacking" && homebrew/DIY tech. In addition to making/experimenting on projects the members of the group have a long history is organizing digital art events in Chicago && around the world (individually && in various collaborative configurations). Below is a list of just some of these events:
+Pwnbrew Club is a very small monthly gathering of digital artists, programmers && amateur hackers. we share + collaborate on projects w/one another relating to curious approaches to technology, "hacking" && homebrew/DIY tech. In addition to making/experimenting on projects, the members of the group have a long history in organizing digital art events in Chicago && around the world (individually && in various collaborative configurations). Below is a list of just some of these events:
 
 ### GLI.TC/H
+
+ADD GIF HERE
+
 [GLI.TC/H](http://gli.tc/h) was an international festival/conference/gathering of glitch art practitioners held in 2010 (Chicago), 2011 (Chicago, Amsterdam, Birmingham UK) && 2012 (Chicago). u can read more about it's [history here](http://gli.tc/h/faq/) && view short [video documentation here](https://www.youtube.com/watch?v=4hBARzlmXTI&list=PL3228E09A837979FB)
+
+### Notacon 
+
+Critical glitch art category
 
 ### d.r.e.a.m. (data rules everything around me)
 [Data Rules Everything Around Me](http://dataruleseverythingaroundme.net/) (d.r.e.a.m.) is a roughly-monthly series held in Chicago devoted to openly discussing the implications of living in a data-driven society. Featured writers, artists, developers, and other cultural producers are invited to share their research and perspectives on the data that fuels the systems that run our world.
+
+### POXCON
+
+### MCA Dirty New Media Round Robin 
+
+### R4WB1T5
+
+### Tritriangle
+
+### DiMoDA (The Digital Museum of Digital Art
+
+### NO-MEDIA
+
+### 0P3NR3P0
+
+### T.RASHB.IN
+
+## The Team
+## PwnBrew
+
+
+
+
+
