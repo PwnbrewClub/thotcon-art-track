@@ -59,11 +59,8 @@ Pwnbrew Club is a very small monthly gathering of digital artists, programmers &
 - [GLI.TC/H](http://gli.tc/h) was an international festival/conference/gathering of glitch art practitioners held in 2010 (Chicago), 2011 (Chicago, Amsterdam, Birmingham UK) && 2012 (Chicago). u can read more about it's [history here](http://gli.tc/h/faq/) && view short [video documentation here](https://www.youtube.com/watch?v=4hBARzlmXTI&list=PL3228E09A837979FB)
 - Notacon: The critical glitch art category
 - d.r.e.a.m.: [Data Rules Everything Around Me](http://dataruleseverythingaroundme.net/) (d.r.e.a.m.) is a roughly-monthly series held in Chicago devoted to openly discussing the implications of living in a data-driven society. Featured writers, artists, developers, and other cultural producers are invited to share their research and perspectives on the data that fuels the systems that run our world.
-- POXCON
-- MCA Dirty New Media Round Robin 
-- R4WB1T5
-- Tritriangle
-- DiMoDA (The Digital Museum of Digital Art
-- NO-MEDIA
-- 0P3NR3P0
-- T.RASHB.IN
+- [DiMoDA](https://dimoda.art/) (The Digital Museum of Digital Art)
+- [Poxcon](http://poxcon.net/)
+- [No-media](http://no-media.tumblr.com/)
+- [MCA Dirty New Media Round Robin](https://vimeo.com/53234697)
+- [R4WB1T5](http://r4wb1t5.org/)
